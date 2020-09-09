@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="" />
+    <list default="true" id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="live server and babble">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +41,7 @@
         <option value="Jamie" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ghSZlkHZHFRRabG1QtyQ4cda43" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,7 +83,7 @@
       <workItem from="1598647693763" duration="2319000" />
       <workItem from="1599655973095" duration="1734000" />
       <workItem from="1599673141825" duration="1295000" />
-      <workItem from="1599674481839" duration="37000" />
+      <workItem from="1599674481839" duration="2443000" />
     </task>
     <task id="LOCAL-00001" summary="live server and babble">
       <created>1599673839336</created>
@@ -115,18 +122,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="live server and babble" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="140" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598566537887">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="1840" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599677446721">
+      <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
     <state x="140" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1598566537887" />
-    <state x="2707" y="64" key="CommitChangelistDialog2" timestamp="1599673929352">
+    <state x="1840" y="284" key="#com.intellij.fileTypes.FileTypeChooser/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599677446721" />
+    <state x="2707" y="64" key="CommitChangelistDialog2" timestamp="1599674767695">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
-    <state x="2707" y="64" key="CommitChangelistDialog2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599673929352" />
-    <state x="2968" y="368" key="Github.ShareDialog" timestamp="1599673206618">
+    <state x="2707" y="64" key="CommitChangelistDialog2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674767695" />
+    <state x="2968" y="368" key="Github.ShareDialog" timestamp="1599674556292">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
-    <state x="2968" y="368" key="Github.ShareDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599673206618" />
+    <state x="2968" y="368" key="Github.ShareDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674556292" />
+    <state x="2860" y="166" key="Github.UntrackedFilesDialog" timestamp="1599674564480">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2860" y="166" key="Github.UntrackedFilesDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674564480" />
     <state width="799" height="272" key="GridCell.Tab.0.bottom" timestamp="1598625368624">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
