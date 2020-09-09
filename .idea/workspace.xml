@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jamie" />
+        <option value="Jamie" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ghSZlkHZHFRRabG1QtyQ4cda43" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/forkify2.0/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js/index.js" working-dir="$PROJECT_DIR$/src/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="" />
+      <created>1598565388516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598565388516</updated>
+      <workItem from="1598565389575" duration="1975000" />
+      <workItem from="1598647693763" duration="2319000" />
+      <workItem from="1599655973095" duration="1734000" />
+      <workItem from="1599673141825" duration="1295000" />
+      <workItem from="1599674481839" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="live server and babble">
+      <created>1599673839336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599673839336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="live server and babble">
+      <created>1599673929448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599673929448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="live server and babble" />
+    <option name="LAST_COMMIT_MESSAGE" value="live server and babble" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598566537887">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="140" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1598566537887" />
+    <state x="2707" y="64" key="CommitChangelistDialog2" timestamp="1599673929352">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2707" y="64" key="CommitChangelistDialog2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599673929352" />
+    <state x="2968" y="368" key="Github.ShareDialog" timestamp="1599673206618">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2968" y="368" key="Github.ShareDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599673206618" />
+    <state width="799" height="272" key="GridCell.Tab.0.bottom" timestamp="1598625368624">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state width="799" height="272" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598567198470" />
+    <state width="799" height="272" key="GridCell.Tab.0.bottom/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1598625368624" />
+    <state width="799" height="272" key="GridCell.Tab.0.center" timestamp="1598625368623">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state width="799" height="272" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598567198469" />
+    <state width="799" height="272" key="GridCell.Tab.0.center/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1598625368623" />
+    <state width="799" height="272" key="GridCell.Tab.0.left" timestamp="1598625368622">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state width="799" height="272" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598567198468" />
+    <state width="799" height="272" key="GridCell.Tab.0.left/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1598625368622" />
+    <state width="799" height="272" key="GridCell.Tab.0.right" timestamp="1598625368623">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state width="799" height="272" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598567198470" />
+    <state width="799" height="272" key="GridCell.Tab.0.right/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1598625368623" />
+    <state x="2625" y="103" key="SettingsEditor" timestamp="1599674517853">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2625" y="103" key="SettingsEditor/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674517853" />
+    <state x="2683" y="204" key="Vcs.Push.Dialog.v2" timestamp="1599674407980">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2683" y="204" key="Vcs.Push.Dialog.v2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674407980" />
+    <state x="2895" y="205" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599672532907">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2895" y="205" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599672532907" />
+    <state x="2934" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599672668271">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2934" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599672668271" />
+    <state x="2905" y="365" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599673551437">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2905" y="365" key="git4idea.remote.GitConfigureRemotesDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599673551437" />
+    <state x="2874" y="366" key="git4idea.ui.GitResetDialog" timestamp="1599674098347">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2874" y="366" key="git4idea.ui.GitResetDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674098347" />
+    <state x="2748" y="178" key="search.everywhere.popup" timestamp="1599656218235">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="2748" y="178" key="search.everywhere.popup/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599656218235" />
+  </component>
+</project>
