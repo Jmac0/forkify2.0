@@ -10,12 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="live server and babble">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b06b7a7c-ed33-4b1d-9e22-7f8294ecec82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/forkify2.0/dist/index.html" useBuiltInWebServerPort="true">
@@ -83,7 +84,7 @@
       <workItem from="1598647693763" duration="2319000" />
       <workItem from="1599655973095" duration="1734000" />
       <workItem from="1599673141825" duration="1295000" />
-      <workItem from="1599674481839" duration="2443000" />
+      <workItem from="1599674481839" duration="5472000" />
     </task>
     <task id="LOCAL-00001" summary="live server and babble">
       <created>1599673839336</created>
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599673929448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Babel added">
+      <created>1599677648688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599677648688</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="live server and babble" />
-    <option name="LAST_COMMIT_MESSAGE" value="live server and babble" />
+    <MESSAGE value="Babel added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Babel added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1840" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599677446721">
@@ -127,10 +136,14 @@
     </state>
     <state x="140" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1598566537887" />
     <state x="1840" y="284" key="#com.intellij.fileTypes.FileTypeChooser/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599677446721" />
-    <state x="2707" y="64" key="CommitChangelistDialog2" timestamp="1599674767695">
+    <state x="2707" y="64" key="CommitChangelistDialog2" timestamp="1599677648559">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
-    <state x="2707" y="64" key="CommitChangelistDialog2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674767695" />
+    <state x="2707" y="64" key="CommitChangelistDialog2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599677648559" />
+    <state x="1781" y="51" width="782" height="827" key="DiffContextDialog" timestamp="1599677931799">
+      <screen x="1680" y="-49" width="1920" height="1057" />
+    </state>
+    <state x="1781" y="51" width="782" height="827" key="DiffContextDialog/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599677931799" />
     <state x="2968" y="368" key="Github.ShareDialog" timestamp="1599674556292">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
@@ -159,14 +172,15 @@
     </state>
     <state width="799" height="272" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598567198470" />
     <state width="799" height="272" key="GridCell.Tab.0.right/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1598625368623" />
-    <state x="2625" y="103" key="SettingsEditor" timestamp="1599674517853">
-      <screen x="1680" y="-49" width="1920" height="1057" />
+    <state x="698" y="171" key="SettingsEditor" timestamp="1599686398759">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="698" y="171" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1599686398759" />
     <state x="2625" y="103" key="SettingsEditor/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674517853" />
-    <state x="2683" y="204" key="Vcs.Push.Dialog.v2" timestamp="1599674407980">
+    <state x="2683" y="204" key="Vcs.Push.Dialog.v2" timestamp="1599677656758">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>
-    <state x="2683" y="204" key="Vcs.Push.Dialog.v2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599674407980" />
+    <state x="2683" y="204" key="Vcs.Push.Dialog.v2/1680.-49.1920.1057/0.23.1680.1027@1680.-49.1920.1057" timestamp="1599677656758" />
     <state x="2895" y="205" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599672532907">
       <screen x="1680" y="-49" width="1920" height="1057" />
     </state>

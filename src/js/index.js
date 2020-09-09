@@ -2,5 +2,5 @@
 
 import x from './test';
 
-
-console.log(`I am number from test js`);
+const num = 23
+console.log(`I am numbe ${num} from test js. Var X is = ${x}`);
